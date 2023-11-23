@@ -1,9 +1,10 @@
-**Phonepe Pulse Data Visualization and Exploration:**
+# Phonepe Pulse Data Visualization and Exploration:
 A User-Friendly Tool Using Streamlit and Plotly
 Using Github Cloning, Python, Pandas, MySQL,mysql-connector-python, Streamlit, and Plotly.
 
-The learning outcomes of this project:
-**1. Data extraction and processing**: You will learn how to use Clone Github to
+# The learning outcomes of this project:
+
+1. Data extraction and processing: You will learn how to use Clone Github to
 extract data from a repository and pre-process the data using Python libraries
 such as Pandas.
 **2. Database management:** You will learn how to use a relational database such
