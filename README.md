@@ -8,7 +8,7 @@ Using Github Cloning, Python, Pandas, MySQL,mysql-connector-python, Streamlit, a
 
 
 
-# The learning outcomes of this project:
+# Skills Gained from this Project:
 
 
 
